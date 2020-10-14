@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1716372626384694256
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1716372626384694263}
+  - component: {fileID: 1716372626384694262}
+  - component: {fileID: 1716372626384694261}
+  m_Layer: 2
+  m_Name: VisionEffect Trigger
+  m_TagString: Untagged
+  m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1716372626384694263
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1716372626384694256}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1716372626384694262
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1716372626384694256}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 6, z: 6}
+  m_Center: {x: 0, y: 3, z: 0}
+--- !u!114 &1716372626384694261
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1716372626384694256}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e952f8090d6a68f4d8912c3ac0ac0152, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  countDownTime: 1000
+  effectTimeScale: 0.1
+  inVision: 0
+  curTime: 0
+  interactiveSelected: 0
+  bunnyCam: {fileID: 0}
+  ghostCam: {fileID: 0}
+  ghostTimelineObject: {fileID: 0}
+  countDownText: {fileID: 0}
+  countDownImage: {fileID: 0}
+  postProcessing: {fileID: 0}
+  vignetteHoldTime: 0
+  qtePrefab: {fileID: 7401883227916036922, guid: 3154d972af285c8488a96bb3356989c5, type: 3}
+  displayBox: {fileID: 0}
+  KeyFillBack: {fileID: 0}
+  KeyFillContent: {fileID: 0}
+  passEffect: {fileID: 0}
+  failEffect: {fileID: 0}
+  JumpQTE: {fileID: 4343763422867779486, guid: 43f6df001409484458708abfa025a46d, type: 3}
+  timeToClick: 1
+  qteSuccess: 1
+  qteFinish: 0
+  ghostRender: {fileID: 0}

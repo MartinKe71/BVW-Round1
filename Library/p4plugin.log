@@ -1,0 +1,32 @@
+e32:SSL receive failed.\nread: The system cannot find the file specified. : WSAECONNRESET\n
+e32:SSL receive failed.\nread: The system cannot find the file specified. : WSAECONNRESET\n
+e32:SSL receive failed.\nread: The system cannot find the file specified. : WSAECONNRESET\n
+chmod: C:\Users\ketia\Perforce\tianrunk_Laptop\etc\courses\2020_semester_3\bvw\round1\team07\working\Team7Round1\Assets\Prefab\tall tree.prefab: The system cannot find the file specified. 
+
+chmod: C:\Users\ketia\Perforce\tianrunk_Laptop\etc\courses\2020_semester_3\bvw\round1\team07\working\Team7Round1\Assets\Prefab\tall tree.prefab.meta: The system cannot find the file specified. 
+
+e1:chmod: C:\\Users\\ketia\\Perforce\\tianrunk_Laptop\\etc\\courses\\2020_semester_3\\bvw\\round1\\team07\\working\\Team7Round1\\Assets\\Prefab\\tall tree.prefab.meta: The system cannot find the file specified. \n
+e1:chmod: C:\\Users\\ketia\\Perforce\\tianrunk_Laptop\\etc\\courses\\2020_semester_3\\bvw\\round1\\team07\\working\\Team7Round1\\Assets\\Prefab\\tall tree.prefab: The system cannot find the file specified. \n
+p1:-1 1 Change 128034 created with 1 open file(s).
+p1:-1 1 Submitting change 128034.
+p1:-1 1 Locking 1 files ...
+p1:-1 1 edit //depot/etc/courses/2020_semester_3/bvw/round1/team07/working/Team7Round1/Assets/Prefab/Main Camera.prefab#8
+p1:-1 1 Change 128034 submitted.
+e32:SSL receive failed.\nread: The system cannot find the file specified. : WSAECONNRESET\n
+p1:-1 0 Change 128457 created with 1 open file(s).
+p1:-1 0 Submitting change 128457.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team07/working/Team7Round1/ProjectSettings/ProjectSettings.asset#14
+p1:-1 0 Change 128457 submitted.
+p1:-1 0 Change 128520 created with 1 open file(s).
+p1:-1 0 Submitting change 128520.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //depot/etc/courses/2020_semester_3/bvw/round1/team07/working/Team7Round1/Assets/Scenes/SampleScene with Terrain.unity.meta#7
+p1:-1 1 Change 128520 submitted.
+e32:SSL receive failed.\nread: The system cannot find the file specified. : WSAECONNRESET\n
+C:/Users/ketia/Perforce/tianrunk_Laptop/etc/courses/2020_semester_3/bvw/round1/team07/working/Team7Round1/Assets/Sounds/BGM/ChaseMelody.wav.meta - file(s) not on client.
+
+w1:C:/Users/ketia/Perforce/tianrunk_Laptop/etc/courses/2020_semester_3/bvw/round1/team07/working/Team7Round1/Assets/Sounds/BGM/ChaseMelody.wav.meta - file(s) not on client.\n
+C:/Users/ketia/Perforce/tianrunk_Laptop/etc/courses/2020_semester_3/bvw/round1/team07/working/Team7Round1/Assets/Scenes/SampleScene with Terrain 2.unity.meta - file(s) not on client.
+
+w1:C:/Users/ketia/Perforce/tianrunk_Laptop/etc/courses/2020_semester_3/bvw/round1/team07/working/Team7Round1/Assets/Scenes/SampleScene with Terrain 2.unity.meta - file(s) not on client.\n
